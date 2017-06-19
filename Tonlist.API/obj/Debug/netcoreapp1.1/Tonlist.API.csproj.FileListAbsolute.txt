@@ -1,0 +1,8 @@
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\bin\Debug\netcoreapp1.1\Tonlist.API.deps.json
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\bin\Debug\netcoreapp1.1\Tonlist.API.runtimeconfig.json
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\bin\Debug\netcoreapp1.1\Tonlist.API.runtimeconfig.dev.json
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\bin\Debug\netcoreapp1.1\Tonlist.API.dll
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\bin\Debug\netcoreapp1.1\Tonlist.API.pdb
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\obj\Debug\netcoreapp1.1\Tonlist.API.AssemblyInfo.cs
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\obj\Debug\netcoreapp1.1\Tonlist.API.dll
+D:\Work\DotNet\t-nlist\Tonlist\Tonlist.API\obj\Debug\netcoreapp1.1\Tonlist.API.pdb
